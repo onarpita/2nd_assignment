@@ -97,3 +97,26 @@ nav {
 .menu-card i {
     margin-right: 10px;
 }
+/* banner part */
+.banner {
+    padding: 100px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.banner-content {
+    max-width: 570px;
+}
+
+.banner-content h1 {
+    font-size: 4em;
+    font-weight: 700;
+    font-family: "Noto Serif", serif;
+    margin-bottom: 20px;
+}
+
+.banner-img {
+    max-width: 570px;
+}
+
